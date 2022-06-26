@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_text">Go to next page</string>
+    <string name="next_page">next page</string>
+    <string name="this_is_second_activity">this is second activity</string>
+    <string name="go_to_home">go to home</string>
+    <string name="go_to_google">go to google</string>
+</resources>
